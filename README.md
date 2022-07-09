@@ -1,1 +1,2 @@
-# Finalized projects that I have been working on to develop my Python programming and AI/ML skills
+# Finalized projects 
+# Projects developed during certifications and while obtaining my AI/ML Master's from Colorado State University Global
